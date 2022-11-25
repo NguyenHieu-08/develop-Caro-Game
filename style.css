@@ -1,0 +1,12 @@
+#game-board{
+    position: relative;
+    margin-top: 50px;
+}
+.cell{
+    border: solid 1px blue;
+    border-collapse: collapse;
+    text-align: center;
+    font-size:20pt;
+    cursor: pointer;
+    color: rgb(216, 90, 90);
+}
